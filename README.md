@@ -1,4 +1,4 @@
-# flutterbasics
+# Flutter Basics
 
 A Flutter alapjait bemutató projekt.
 
